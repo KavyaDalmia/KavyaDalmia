@@ -3,7 +3,7 @@
 <p align="center">I am currently learning about cyber security, genrative AI, web development, backend development and data</p>
 <p align="center">📫 How to reach me: my email is kdalmi01@student.ubc.ca</p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KavyaDalmia&theme=radical" alt="GitHub Streak Stats">
+ 
 </p>
 
 <p align="center"><a href="#">
