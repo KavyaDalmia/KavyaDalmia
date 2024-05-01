@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KavyaDalmia&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<!-- Center-aligned text -->
-<p align="center">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KavyaDalmia)</p>
-
 <!-- Center-aligned GitHub streak stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KavyaDalmia&theme=radical" alt="GitHub Streak Stats">
