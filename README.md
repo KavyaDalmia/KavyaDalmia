@@ -1,5 +1,5 @@
 <!-- Center-aligned text with increased font size -->
-<p align="center" style="font-size: 24px;">Hey there, I'm Kavya! 👋</p>
+<p align="center" style="font-size: 10px;">Hey there, I'm Kavya! 👋</p>
 
 <!-- Center-aligned text with increased font size -->
 <p align="center" style="font-size: 18px;">I’m interested in Cyber security, web-development, data and math</p>
