@@ -1,6 +1,6 @@
 <!-- Center-aligned text with increased font size -->
 <div align="center" style="font-size: 24px;">Hey there, I'm Kavya! 👋</div>
-<span style="font-size:1.0em;">Text goes here</span>
+<span style="font-size:2.0em;">Text goes here</span>
 
 <!-- Center-aligned grid layout -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
