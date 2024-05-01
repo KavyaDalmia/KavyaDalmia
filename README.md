@@ -1,38 +1,13 @@
-<!-- Center-aligned text with increased font size -->
-<div align="center" style="font-size: 24px;">Hey there, I'm Kavya! 👋</div>
-<span style="font-size:2.0em;">Text goes here</span>
+<h1 align="center">Hey there, I'm Kavya! 👋</h1>
 
-<!-- Center-aligned grid layout -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <!-- First image -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaDalmia&theme=radical" alt="Top Languages">
-  </div>
-  <!-- Second image -->
-  <div>
-    <img src="https://streak-stats.demolab.com/?user=KavyaDalmia&theme=radical" alt="GitHub Streak Stats">
-  </div>
-</div>
-
-<!-- Center-aligned text with increased font size -->
-<div align="center" style="font-size: 18px;">I’m interested in Cyber security, web-development, data and math</div>
-
-<!-- Center-aligned text with increased font size -->
-<div align="center" style="font-size: 18px;">📫 How to reach me: my email is kdalmi01@student.ubc.ca</div>
-
-<!-- Center-aligned GitHub streak stats -->
+<p align="center">I am currently learning about cyber security, genrative AI, web development, backend development and data</p>
+<p align="center">📫 How to reach me: my email is kdalmi01@student.ubc.ca</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KavyaDalmia&theme=radical" alt="GitHub Streak Stats">
 </p>
 
-<!-- Center-aligned grid layout -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <!-- First image -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaDalmia&theme=radical" alt="Top Languages">
-  </div>
-  <!-- Second image -->
-  <div>
-    <img src="https://streak-stats.demolab.com/?user=KavyaDalmia&theme=radical" alt="GitHub Streak Stats">
-  </div>
-</div>
+<p align="center"><a href="#">
+  <img src="https://streak-stats.demolab.com/?user=KavyaDalmia&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaDalmia&theme=radical" alt="Top Languages">
+</a></p>
+
